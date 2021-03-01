@@ -1,5 +1,5 @@
 /*****
- * Nina Bryson
+ * Nina Bryson *
  ******/
 public class GitDemo {
     
