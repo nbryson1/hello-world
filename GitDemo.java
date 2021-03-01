@@ -1,7 +1,7 @@
  
 /*****
- * Edit this line to have your name.
- ******/
+ * Nina Bryson   *
+
 public class GitDemo {
     
     private double previousNumber;   
@@ -15,6 +15,8 @@ public class GitDemo {
     *****/
     public double addNumber(double num) {
         System.out.print("Add num to previousNumber");
+        previousNumber = previousNumber =num;
+        System.out.print(previousNumber);
         return 0;
     }
     
