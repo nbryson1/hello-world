@@ -3,7 +3,7 @@
  ******/
 public class GitDemo {
     
-    private double previousNumber;
+    private double previousNumber;   
     
     public GitDemo() {
         previousNumber = 1;
